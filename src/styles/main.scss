@@ -1,0 +1,41 @@
+/* shades going from black (0) to white (31) */
+$gray0: #000000;
+$gray1: #080808;
+$gray2: #101010;
+$gray3: #181818;
+$gray4: #202020;
+$gray5: #282828;
+$gray6: #303030;
+$gray7: #383838;
+$gray8: #404040;
+$gray9: #484848;
+/*$gray9: #505050;/* /* BUG! color twice! */
+$gray10: #585858;
+$gray11: #606060;
+$gray12: #686868;
+$gray13: #707070;
+$gray14: #787878;
+$gray15: #808080;
+
+$gray16: #888888;
+$gray17: #909090;
+$gray18: #989898;
+$gray19: #a0a0a0;
+$gray20: #a8a8a8;
+$gray21: #b0b0b0;
+$gray22: #b8b8b8;
+$gray23: #c0c0c0;
+$gray24: #c8c8c8;
+$gray25: #d0d0d0;
+$gray26: #d8d8d8;
+$gray27: #e0e0e0;
+$gray28: #e8e8e8;
+$gray29: #f0f0f0;
+$gray30: #f8f8f8;
+$gray31: #ffffff; /* should be gray32 */
+
+
+$textColorLight: $gray0;
+$textColorDark: $gray28;
+$backgroundColorLight: $gray31;
+$backgroundColorDark: $gray3;

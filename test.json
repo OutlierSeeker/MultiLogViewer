@@ -1,0 +1,61 @@
+{
+    "General": {
+        "loadLastDirectory": false,
+        "numberOfLastDirectories": 5,
+        "lastDirectories": [
+            "D:\\Files\\Nextcloud\\Dev\\Electron\\abcLogViewer (ini & file)\\log",
+            "D:\\Files\\Nextcloud\\Dev\\Electron\\LogViewer (ini & file)\\log",
+            "D:\\Files\\Nextcloud\\Dev\\Electron\\abcLogViewer (ini & file)\\log",
+            "D:\\Files\\Nextcloud\\Dev\\Electron\\MultiLogViewer (dark mode)\\logs"
+        ],
+        "checkSubdirectoryForLog": true,
+        "validLogDirectoryNames": [
+            "log",
+            "logs"
+        ],
+        "useDescriptiveDirectoryName": true,
+        "tableSeparator": ";",
+        "isDarkMode": false,
+        "saveWindowSettings": true,
+        "mainWindowPositionX": 98,
+        "mainWindowPositionY": 99,
+        "mainWindowWidth": 899,
+        "mainWindowHeight": 599,
+        "launcherWindowPositionX": -1253,
+        "launcherWindowPositionY": 517,
+        "launcherWindowWidth": 790,
+        "launcherWindowHeight": 550,
+        "searchInputDelay": 501,
+        "defaultNumberOfTableRows": 31,
+        "rowNumberOptions": [
+            "4",
+            "15",
+            "30",
+            "40",
+            "100",
+            "250",
+            "500",
+            "1000",
+            "-1"
+        ],
+        "numberOfPaginationButtonsOnTheSide": 3
+    },
+    "MLVDebug": {
+        "moduleName": "MLVDebug",
+        "active": true,
+        "filenames": [
+            "debug.log",
+            "debug.csv",
+            "debugLog.csv"
+        ]
+    },
+    "MLVTest": {
+        "moduleName": "MLVTest",
+        "active": false,
+        "filenames": [
+            "test.log",
+            "test.csv",
+            "testLog.csv"
+        ]
+    }
+}

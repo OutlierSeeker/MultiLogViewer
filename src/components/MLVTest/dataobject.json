@@ -1,0 +1,43 @@
+{
+    "filename": "testResults.csv",
+    "readRows": 3,
+    "invalidRows": 0,
+    "finishedReading": true,
+    "data": [
+        {
+            "nodeName": "",
+            "nodeSuccess": true,
+            "nodeEntries": []
+        },
+        {
+            "nodeName": "TestClass",
+            "nodeSuccess": false,
+            "nodeEntries": [
+                {
+                    "nodeName": "testBasics",
+                    "nodeSuccess": true,
+                    "nodeEntries": [
+                        {
+                            "nodeSuccess": true,
+                            "nodeLine": "6",
+                            "nodeAssertType": "ASSERT_EQUAL",
+                            "nodeComment": "1 == 1"
+                        }
+                    ]
+                },
+                {
+                    "nodeName": "basicTest",
+                    "nodeSuccess": false,
+                    "nodeEntries": [
+                        {
+                            "nodeSuccess": false,
+                            "nodeLine": "145",
+                            "nodeAssertType": "ASSERT_EQUAL",
+                            "nodeComment": "0.25 == p.getTest()"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
